@@ -17,5 +17,17 @@ public class Lab068_TO_ThreeMax {
         //
         int max = (n1>n2) ? (n1 >n3) ? n1:n3 : (n2>n3) ? n2:n3;
         System.out.println(max);
+
+
+        int max1 = ( (n1 > n2) ? n1 : n2 ) > n3
+                ? ( (n1 > n2) ? n1 : n2 )
+                : n3;
+
+        /* int max = ((a > b) ? a : b)   // this finds max betwwn A and B
+           > c              // now asks if that result is > c
+         ? ((a > b) ? a : b) // if yes, max = the result of (a>b)?a:b
+         : c;               // otherwise, max = c*/
+
+        System.out.println(max1);
     }
 }
