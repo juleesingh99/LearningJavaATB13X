@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="activeChatId" value="783e17ca-b81f-4474-b267-8564f089a13d" />
+    <option name="chatMetadata" value="{&quot;783e17ca-b81f-4474-b267-8564f089a13d&quot;:{&quot;id&quot;:&quot;783e17ca-b81f-4474-b267-8564f089a13d&quot;,&quot;title&quot;:&quot;Web Automation with Selenium&quot;,&quot;createdAt&quot;:1750752156843,&quot;updatedAt&quot;:1750754478412,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:10,&quot;lastMessagePreview&quot;:&quot;I see there's an issue with the file. Let me fix the class name in the `IndiaMartSearchTest.java` fi...&quot;}}" />
+  </component>
+</project>
