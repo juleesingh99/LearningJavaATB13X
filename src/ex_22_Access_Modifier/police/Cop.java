@@ -8,7 +8,7 @@ public class Cop {
     {
         this.gun=bullet;
     }
-    protected void canIShoot()
+    public void canIShoot()
     {
         System.out.println("yes you can!!");
     }
